@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Qoutes from './containers/Qoutes';
-import QouteForm from './containers/QouteForm';
+import Qoutes from './containers/Quotes';
+import QouteForm from './containers/QuoteForm';
 
 class App extends Component {
   render() {
